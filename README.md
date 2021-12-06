@@ -139,13 +139,9 @@ If you want `MiroTalk` to be `reachable` from the `outside` of your local networ
 
 ## Credits
 
-Many Thanks to:
+Made By:
 
--   ianramzy (html [template](https://cruip.com/demos/neon/))
--   vasanthv (webrtc)
--   Sajad (chat)
--   fabric.js (whiteboard)
--   fmeringdal (rest api)
+-   Neel kakkad
 
 From where I took inspiration for this project. ❤️
 
@@ -154,20 +150,19 @@ From where I took inspiration for this project. ❤️
 -   Pull Requests are very welcome! :slightly_smiling_face:
 -   Just run [prettier](https://prettier.io) on all of your PRs before submitting, this can be done with the following comand: `npm run lint`
 
--   For communication we use [gitter](https://gitter.im/) or [discord](https://discord.com/) chats which can be found here:
+ere:
 
-[![Gitter](https://badges.gitter.im/mirotalk/community.svg)](https://gitter.im/mirotalk/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Discord](https://img.shields.io/badge/chat-discord-green)](https://discord.gg/TAeWXJCvBr)
 
-## License
 
-[![AGPLv3](public/images/AGPLv3.png)](LICENSE)
+
+
+
 
 <br/>
 
-### MiroTalk SFU
+##
 
-You can try also [MiroTalk SFU](https://github.com/miroslavpejic85/mirotalksfu), The difference between the 2 projects you can found [here](https://github.com/miroslavpejic85/mirotalksfu/issues/14#issuecomment-932701999).
 
 ---
 
-<p align="center"> Made with ❤️ by <a href="https://www.linkedin.com/in/miroslav-pejic-976a07101/">Miroslav Pejic</a></p>
+ by <a href="https://www.linkedin.com/in/miroslav-pejic-976a07101/">Miroslav Pejic</a></p>
